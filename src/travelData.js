@@ -1,0 +1,1 @@
+export default TRAVEL_DATA = new Set(['RUS','SRB','UZB','LVA','LTU','KAZ','JPN','FIN','EST','DEU']);
